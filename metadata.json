@@ -1,0 +1,7 @@
+{
+  "name": "Everskies Pixel Reimaginer",
+  "description": "Convert any character image into the iconic Everskies pixel art style, capturing unique body shapes, facial expressions, and detailed outfits.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
